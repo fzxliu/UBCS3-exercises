@@ -1,0 +1,51 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#Current Project: Characterization of $\\Delta$DGC/PDEA mutant of *P. fluorescens* WCS365"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Background\n",
+    "Diguanylate cyclase/phosphodiesterase A (DGC/PDEA) is a family of genes often implicated in the formation of biofilm. These genes are characterized by a pair of tandem GGDEF-EAL domains. The interplay between DGC and PDEA is often antagonistic. DGC synthesizes c-di-GMP from two molecules of GTP, a second messenger that upregulates a host of pathways involved in biofilm formation, whereas PDEA hydrolyzes c-di-GMP.\n",
+    "![Interplay between DGC and PDEA](http://jb.asm.org/content/191/3/683/F1.medium.gif)\n",
+    "The dynamics between DGC and PDEA is further complicated by the observation that both genes often contain the same pair of tandem GGDEF-EAL domain, and prediction of exact protein activity based on sequence is not always reliable. Although there does seem to be a pattern in that, a well-conserved GGDEF domain is responsible for the diguanylate cyclase activity and an EAL domain is responsible for the phosphodiesterase A activity"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.5.1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 0
+}
